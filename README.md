@@ -1,6 +1,4 @@
-# individual_speech_classification
-
-# Introduction
+# Individual Speech Classification
 
 This dataset is obtained from two individuals speaking in a natural environment.
 
