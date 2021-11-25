@@ -13,4 +13,4 @@ After using different machine learning algorithms, Gradient Boosting Classifier 
 
 For the second dataset, Gradient Boosting Classifier still outperformed the other machine learning algorithms. With hypertuning, the best accuracy scored around 97%.
 
-Even with less data, the difference between the male and female speech was enough to build a higher accuracy model than the dataset with only female speeches although that dataset was larger.
+Even with less data, the difference between the male and female speech was enough to build a higher accuracy model than the dataset with only female speeches although that dataset was much larger.
